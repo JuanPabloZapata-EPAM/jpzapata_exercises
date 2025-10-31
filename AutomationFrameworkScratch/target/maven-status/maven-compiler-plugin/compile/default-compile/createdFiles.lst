@@ -1,0 +1,5 @@
+epam\api\exercise\clients\PostsClient.class
+epam\api\exercise\models\Posts.class
+epam\api\exercise\utils\PostsPayloadUtil.class
+epam\api\exercise\base\BaseAPI.class
+epam\api\exercise\base\BaseResponse.class
